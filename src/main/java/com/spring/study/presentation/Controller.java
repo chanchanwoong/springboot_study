@@ -1,6 +1,6 @@
 package com.spring.study.presentation;
 
-import com.spring.study.vo.MemberRequestVo;
+import com.spring.study.data.vo.MemberRequestVo;
 import java.util.Map;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

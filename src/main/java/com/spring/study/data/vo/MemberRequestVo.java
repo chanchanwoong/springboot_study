@@ -1,4 +1,4 @@
-package com.spring.study.vo;
+package com.spring.study.data.vo;
 
 import lombok.Getter;
 import lombok.Setter;
